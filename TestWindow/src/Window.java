@@ -13,7 +13,7 @@ public class Window {
 		
 		JLabel displayLabel=new JLabel("hello");
 		displayLabel.setBounds(0,0,600,600);
-		displayLabel.setBackground(Color.red);
+		displayLabel.setBackground(Color.green);
 		displayLabel.setOpaque(true);
 		jf.add(displayLabel);
 		
